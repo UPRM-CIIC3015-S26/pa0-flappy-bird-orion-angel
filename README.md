@@ -14,9 +14,9 @@ The project is designed as an introductory programming assignment (PA0). Most of
 ## 👥 Team Information
 
 ### Partner #1
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name:** Orion Rivera
+- **Student Number:** 802-24-2531
+- **Email:** diedrich.rivera@upr.edu
 
 ### Partner #2
 - **Name:**
@@ -25,5 +25,6 @@ The project is designed as an introductory programming assignment (PA0). Most of
 
 ## ⭐ Bonus Features (Optional)
 List and briefly describe any additional features or enhancements implemented beyond the basic requirements.
-- Bonus Feature 1
-- Bonus Feature 2
+- Background image
+- High Score
+- 
